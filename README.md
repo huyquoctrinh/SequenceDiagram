@@ -21,7 +21,8 @@ Or:
 python main.py
 ```
 
-### Note :exclamation: :exclamation:: Remember to update api key from openai for use the functions that were implemented in the app. 
+### Note :exclamation: :exclamation:: 
+Remember to update api key from openai for use the functions that were implemented in the app 
 ## Update date
 Update in 03/04/2023
 
