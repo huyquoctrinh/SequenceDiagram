@@ -1,6 +1,6 @@
 # Sequence Diagram demo
 
-## Installation
+## 1. Installation
 Install following packages in ```requirements.txt```
 
 Use the following command:
@@ -8,7 +8,7 @@ Use the following command:
 pip install -r requirements.txt
 ```
 
-## Start project
+## 2. Start project
 Simple run and testing by file ```main.py```
 
 Use one of these commands:
@@ -23,6 +23,6 @@ python main.py
 
 ### Note :exclamation: :exclamation:: 
 Remember to update api key from openai for use the functions that were implemented in the app 
-## Update date
+## 3. Update date
 Update in 03/04/2023
 
